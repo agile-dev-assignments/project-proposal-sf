@@ -4,9 +4,9 @@
 Flashcards - For exams & For fun!
 
 ## What and Why?
-### What?
+
 We want to create a flashcards game with a baseline system to let students study for exams in various disciplines, and let foreigners or multilingual learners memorize words and phrases in foreign languages. In addition, the application would also allow users to DIY their own flashcards, such as Q&A and filling in the blanks and even inserting pictures.
-### Why? 
+
 Basically, it’s really hard for people to memorize words in a second language. Even native speakers can sometimes have a hard time memorizing obscure words like those appearing in the GRE exams. Flashcards would be a very interactive way to help retain and refresh people’s memory in the form of playing a small game. Also, linking words to pictures would be a good way for associative memory.
 
 ## For whom?
