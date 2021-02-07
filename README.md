@@ -1,5 +1,10 @@
 # Project Proposal
 
+## Collaboration
+Contributors:
+1. Tanya Wang (yw3087)
+2. Olivia Zhang (yz4229)
+
 ## Project Title
 Flashcards - For exams & For fun!
 
